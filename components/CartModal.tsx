@@ -14,7 +14,7 @@ const [isCartpageOpen,setIsCartpageOpen] = useState(false);
 
   const Price = 275450;
   const bookingAmount = 5000;
-  const accessoriesTotal = items.reduce((sum, item) => sum + item.price * item, 0);
+  const accessoriesTotal = items.reduce((sum, item) => sum + item.price , 0);
   const subTotal = Price + accessoriesTotal;
 
   const handleDelete = (id:string | number) => {

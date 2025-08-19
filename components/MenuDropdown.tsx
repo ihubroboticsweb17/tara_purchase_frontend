@@ -1,17 +1,4 @@
-// export default function MenuDropdown() {
-//   return (
-//     <aside className="bg-white w-64 border-r border-gray-200 p-4 space-y-4">
-//       <ul className="space-y-3 text-gray-700 font-medium">
-//         <li><a href="#">Configure Now</a></li>
-//         <li><a href="#">Find A Dealer</a></li>
-//         <li><a href="#">Find A Service Centre</a></li>
-//         <li><a href="#">Finance</a></li>
-//         <li><a href="#">Owner's Manual</a></li>
-//         <li><a href="#">Quick Start Guide</a></li>
-//       </ul>
-//     </aside>
-//   );
-// }
+
 import Link from "next/link";
 
 export default function MenuDropdown() {

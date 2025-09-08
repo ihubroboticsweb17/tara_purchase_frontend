@@ -13,11 +13,11 @@ const saira = Saira({ subsets: ["latin"], weight: ["400", "500", "600", "700"] }
 export const metadata: Metadata = {
   title: "Tara-Gen1",
   description: "With 20+ ",
-  keywords: "event production, car stickers, furniture rental, Riyadh, Saudi Arabia, branding, advertising",
+  keywords: "",
   authors: [{ name: "Tara-Gen1" }],
   openGraph: {
-    title: "Tara-Gen1 - Premier Event Production & Branding",
-    description: "Transform your vision into reality with our comprehensive event and branding solutions",
+    title: "Tara-Gen1",
+    description: "",
     type: "website",
     locale: "en_US",
   },
